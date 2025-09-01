@@ -1,6 +1,7 @@
 ## 👋 Howdy, I’m Jos
 
 🌱 Web Dev in Progress
+
 I’m a restaurant manager looking to change carteers andstarting my coding journey from scratch and documenting it here — from first exercises to full projects.
 
 ⸻
