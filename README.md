@@ -29,8 +29,11 @@ I’m committing daily/weekly exercises and projects as I work through:
 🛠️ Projects & Exercises
 
 🔹 Week 1: Week-1-HTML-Basics
-🔹 Travel Agency Page
-🔹 Portfolio Website
+
+🔹 Week 2
+
+🔹 Week 3
+
 
 (More coming soon — each project has its own repo!)
 
