@@ -28,7 +28,7 @@ I’m committing daily/weekly exercises and projects as I work through:
 
 🛠️ Projects & Exercises
 
-🔹 Day 1–7: HTML Basics
+🔹 Week 1: Week-1-HTML-Basics
 🔹 Travel Agency Page
 🔹 Portfolio Website
 
