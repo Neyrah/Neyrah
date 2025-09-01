@@ -7,6 +7,7 @@ I’m a restaurant manager looking to change carteers andstarting my coding jour
 ⸻
 
 📖 About Me
+
 	•	💻 Aspiring web developer
 	•	🎯 Currently focused on HTML, CSS, and JavaScript basics
 	•	☕ Fueled by coffee & curiosity
