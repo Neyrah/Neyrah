@@ -18,6 +18,7 @@ I’m a restaurant manager looking to change careers. Starting my coding journey
 🚀 Learning Journey
 
 I’m committing daily/weekly exercises and projects as I work through:
+
 	•	HTML & CSS basics
 	•	JavaScript fundamentals
 	•	Version control with Git & GitHub
@@ -36,6 +37,7 @@ I’m committing daily/weekly exercises and projects as I work through:
 ⸻
 
 ✨ Goals
+
 	•	Document my progress openly
 	•	Build a portfolio that grows commit by commit
 	•	Inspire others starting their own dev journey
@@ -44,6 +46,7 @@ I’m committing daily/weekly exercises and projects as I work through:
 ⸻
 
 📫 Connect with Me
+
 	•	GitHub: @Neyrah
 	•	LinkedIn: https://www.linkedin.com/in/joscelin-panet-75579a1b9/
 
